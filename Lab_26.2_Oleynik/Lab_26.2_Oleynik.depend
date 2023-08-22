@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1618828337 source:c:\Программирование\lab_26.2_oleynik\doubly_cyclic_list.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"input_str.h"
+	"doubly_cyclic_list.h"
+
+1618748341 c:\Программирование\lab_26.2_oleynik\doubly_cyclic_list.h
+
+1618748341 source:c:\Программирование\lab_26.2_oleynik\input_str.c
+	<stdio.h>
+	<stdlib.h>
+	"input_str.h"
+
+1618731395 c:\Программирование\lab_26.2_oleynik\input_str.h
+
+1618747844 source:c:\Программирование\lab_26.2_oleynik\main.c
+	<stdio.h>
+	<stdlib.h>
+	"doubly_cyclic_list.h"
+
+1619706279 source:c:\proga\home\lab_26.2_oleynik\doubly_cyclic_list.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"input_str.h"
+	"doubly_cyclic_list.h"
+
+1618731395 c:\proga\home\lab_26.2_oleynik\input_str.h
+
+1618748341 c:\proga\home\lab_26.2_oleynik\doubly_cyclic_list.h
+
+1620546845 source:c:\proga\home\lab_26.2_oleynik\input_str.c
+	<stdio.h>
+	<stdlib.h>
+	"input_str.h"
+
+1618747844 source:c:\proga\home\lab_26.2_oleynik\main.c
+	<stdio.h>
+	<stdlib.h>
+	"doubly_cyclic_list.h"
+

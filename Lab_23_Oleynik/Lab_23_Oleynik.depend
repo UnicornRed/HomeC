@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1616178948 source:c:\Программирование\Домашка\lab_23_oleynik\matrix_processing.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Matrix_module.h"
+	"Matrix_processing.h"
+
+1617568024 source:c:\Программирование\Домашка\lab_23_oleynik\matrix_module.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Matrix_module.h"
+
+1616174982 c:\Программирование\Домашка\lab_23_oleynik\matrix_module.h
+
+1616696682 source:c:\Программирование\Домашка\lab_23_oleynik\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"Matrix_module.h"
+	"Matrix_processing.h"
+
+1616084904 c:\Программирование\Домашка\lab_23_oleynik\matrix_processing.h
+
+1616696682 source:c:\proga\home\lab_23_oleynik\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"Matrix_module.h"
+	"Matrix_processing.h"
+
+1616174982 c:\proga\home\lab_23_oleynik\matrix_module.h
+
+1616084904 c:\proga\home\lab_23_oleynik\matrix_processing.h
+
+1617568024 source:c:\proga\home\lab_23_oleynik\matrix_module.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Matrix_module.h"
+
+1616178948 source:c:\proga\home\lab_23_oleynik\matrix_processing.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Matrix_module.h"
+	"Matrix_processing.h"
+

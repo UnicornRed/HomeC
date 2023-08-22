@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1605788764 source:c:\Программирование\Домашка\lab_12.3b_oleynik\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"del_norepeat.h"
+
+1605785943 c:\Программирование\Домашка\lab_12.3b_oleynik\del_norepeat.h
+
+1605788731 source:c:\Программирование\Домашка\lab_12.3b_oleynik\del_norepeat.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+	"del_norepeat.h"
+
+1605792555 source:c:\proga\home\lab_12.3b_oleynik\del_norepeat.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+	"del_norepeat.h"
+
+1605785943 c:\proga\home\lab_12.3b_oleynik\del_norepeat.h
+
+1605788764 source:c:\proga\home\lab_12.3b_oleynik\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"del_norepeat.h"
+

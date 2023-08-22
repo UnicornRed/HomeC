@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1616071535 source:c:\Программирование\Домашка\lab_18.2ab_oleynik\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"words_in_string.h"
+
+1615811139 c:\Программирование\Домашка\lab_18.2ab_oleynik\words_in_string.h
+
+1616071535 source:c:\Программирование\Домашка\lab_18.2ab_oleynik\words_in_string.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"words_in_string.h"
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1603364196 source:c:\Программирование\Домашка\lab_11.1a_oleynik\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"sum_num.h"
+
+1606165844 c:\Программирование\Домашка\lab_11.1a_oleynik\sum_num.h
+
+1603009000 source:c:\Программирование\Домашка\lab_11.1a_oleynik\sum_num.c
+	<stdio.h>
+	<stdlib.h>
+	"sum_num.h"
+

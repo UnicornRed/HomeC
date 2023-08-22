@@ -1,0 +1,106 @@
+# depslib dependency file v1.0
+1617998637 source:c:\Программирование\Домашка\lab_24_oleynik\main.c
+	<stdlib.h>
+	<stdio.h>
+	"database.h"
+	"database_screen.h"
+
+1618067912 c:\Программирование\Домашка\lab_24_oleynik\database.h
+
+1618067912 source:c:\Программирование\Домашка\lab_24_oleynik\database.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"database.h"
+
+1618067912 source:c:\Программирование\Домашка\lab_24_oleynik\database_screen.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<graphics.h>
+	"database.h"
+	"comparison_fun.h"
+	"database_screen.h"
+
+1617610082 c:\Программирование\Домашка\lab_24_oleynik\database_screen.h
+
+1618067938 c:\Программирование\Домашка\lab_24_oleynik\comparison_fun.h
+	"database.h"
+
+1618067912 source:c:\Программирование\Домашка\lab_24_oleynik\comparison_fun.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"comparison_fun.h"
+
+1618391635 source:c:\proga\home\lab_24_oleynik\comparison_fun.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"comparison_fun.h"
+
+1618391635 c:\proga\home\lab_24_oleynik\comparison_fun.h
+	"database.h"
+
+1618348943 c:\proga\home\lab_24_oleynik\database.h
+
+1618391635 source:c:\proga\home\lab_24_oleynik\database.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"database.h"
+
+1626170473 source:c:\proga\home\lab_24_oleynik\database_screen.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<graphics.h>
+	"database.h"
+	"comparison_fun.h"
+	"database_screen.h"
+
+1618392275 c:\proga\home\lab_24_oleynik\database_screen.h
+
+1618397550 source:c:\proga\home\lab_24_oleynik\main.c
+	<stdlib.h>
+	<stdio.h>
+	"database.h"
+	"database_screen.h"
+
+1618391635 source:c:\proga\homec\lab_24_oleynik\comparison_fun.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"comparison_fun.h"
+
+1618391635 c:\proga\homec\lab_24_oleynik\comparison_fun.h
+	"database.h"
+
+1618348943 c:\proga\homec\lab_24_oleynik\database.h
+
+1618391635 source:c:\proga\homec\lab_24_oleynik\database.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"database.h"
+
+1630384336 source:c:\proga\homec\lab_24_oleynik\database_screen.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<graphics.h>
+	"database.h"
+	"comparison_fun.h"
+	"database_screen.h"
+
+1618392275 c:\proga\homec\lab_24_oleynik\database_screen.h
+
+1618397550 source:c:\proga\homec\lab_24_oleynik\main.c
+	<stdlib.h>
+	<stdio.h>
+	"database.h"
+	"database_screen.h"
+
