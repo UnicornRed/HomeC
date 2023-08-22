@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1602767193 source:c:\Программирование\lab_11.3_oleynik\print_num.c
+	<stdio.h>
+	<stdlib.h>
+	"print_num.h"
+
+1602767808 c:\Программирование\lab_11.3_oleynik\print_num.h
+
+1602767070 source:c:\Программирование\lab_11.3_oleynik\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"print_num.h"
+
+1602767070 source:c:\Программирование\Домашка\lab_11.3_oleynik\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"print_num.h"
+
+1603286439 c:\Программирование\Домашка\lab_11.3_oleynik\print_num.h
+
+1603286529 source:c:\Программирование\Домашка\lab_11.3_oleynik\print_num.c
+	<stdio.h>
+	<stdlib.h>
+	"print_num.h"
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1605785373 source:c:\Программирование\Домашка\lab_12.2d_oleynik\array_monotone.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"array_monotone.h"
+
+1605785625 source:c:\Программирование\Домашка\lab_12.2d_oleynik\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"array_monotone.h"
+
+1605785373 c:\Программирование\Домашка\lab_12.2d_oleynik\array_monotone.h
+

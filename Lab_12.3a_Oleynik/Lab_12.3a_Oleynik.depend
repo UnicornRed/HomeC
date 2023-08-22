@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1605785572 source:c:\Программирование\Домашка\lab_12.3a_oleynik\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"del_even_noteven_array.h"
+
+1605785572 c:\Программирование\Домашка\lab_12.3a_oleynik\del_even_noteven_array.h
+
+1605785572 source:c:\Программирование\Домашка\lab_12.3a_oleynik\del_even_noteven_array.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"del_even_noteven_array.h"
+

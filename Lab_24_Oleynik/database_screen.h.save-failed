@@ -1,0 +1,6 @@
+#ifndef DATABASE_SCREEN_H_INCLUDED
+#define DATABASE_SCREEN_H_INCLUDED
+
+int data_interface (int h, int w);
+
+#endif // DATABASE_SCREEN_H_INCLUDED

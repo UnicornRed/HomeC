@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1620310251 source:c:\Программирование\lab_27.2_oleynik\main.c
+	<stdio.h>
+	<stdlib.h>
+	"br_tree.h"
+
+1620310216 c:\Программирование\lab_27.2_oleynik\br_tree.h
+
+1620310520 source:c:\Программирование\lab_27.2_oleynik\br_tree.c
+	<stdio.h>
+	<stdlib.h>
+	"br_tree.h"
+
+1620550209 source:c:\proga\home\lab_27.2_oleynik\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"input_str.h"
+	"br_tree.h"
+
+1620812145 c:\proga\home\lab_27.2_oleynik\br_tree.h
+
+1620812145 source:c:\proga\home\lab_27.2_oleynik\br_tree.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"br_tree.h"
+
+1620550209 source:c:\proga\home\lab_27.2_oleynik\input_str.c
+	<stdio.h>
+	<stdlib.h>
+	"input_str.h"
+
+1618731395 c:\proga\home\lab_27.2_oleynik\input_str.h
+

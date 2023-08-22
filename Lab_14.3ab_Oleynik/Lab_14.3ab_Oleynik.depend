@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1614860301 source:c:\Программирование\Домашка\lab_14.3ab_oleynik\binary_module.c
+	<stdio.h>
+	<stdlib.h>
+	"binary_module.h"
+
+1614856975 source:c:\Программирование\Домашка\lab_14.3ab_oleynik\scan_print_array.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"scan_print_array.h"
+
+1614764284 c:\Программирование\Домашка\lab_14.3ab_oleynik\scan_print_array.h
+
+1614805581 source:c:\Программирование\Домашка\lab_14.3ab_oleynik\comparison_fun.c
+	<stdio.h>
+	<stdlib.h>
+	"comparison_fun.h"
+
+1614805581 c:\Программирование\Домашка\lab_14.3ab_oleynik\comparison_fun.h
+
+1614860342 source:c:\Программирование\Домашка\lab_14.3ab_oleynik\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"scan_print_array.h"
+	"comparison_fun.h"
+	"binary_module.h"
+
+1614860301 c:\Программирование\Домашка\lab_14.3ab_oleynik\binary_module.h
+

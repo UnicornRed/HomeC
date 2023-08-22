@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1613058917 source:c:\Программирование\Домашка\lab_13.1cd_oleynik\cubic_function.c
+	<stdio.h>
+	<stdlib.h>
+	"cubic_function.h"
+
+1613058917 c:\Программирование\Домашка\lab_13.1cd_oleynik\cubic_function.h
+
+1613120757 source:c:\Программирование\Домашка\lab_13.1cd_oleynik\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"integral.h"
+	"cubic_function.h"
+
+1613059079 c:\Программирование\Домашка\lab_13.1cd_oleynik\midpoint.h
+
+1613645360 source:c:\Программирование\Домашка\lab_13.1cd_oleynik\midpoint.c
+	<stdio.h>
+	<stdlib.h>
+	"integral.h"
+
+1613614750 c:\Программирование\Домашка\lab_13.1cd_oleynik\integral.h
+
+1613614750 source:c:\Программирование\Домашка\lab_13.1cd_oleynik\trapez.c
+	<stdio.h>
+	<stdlib.h>
+	"integral.h"
+

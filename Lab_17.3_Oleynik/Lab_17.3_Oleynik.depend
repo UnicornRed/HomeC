@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1615648263 source:c:\Программирование\Домашка\lab_17.3_oleynik\substring.c
+	<stdio.h>
+	<stdlib.h>
+	"substring.h"
+
+1615648263 c:\Программирование\Домашка\lab_17.3_oleynik\substring.h
+
+1615708270 source:c:\Программирование\Домашка\lab_17.3_oleynik\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"substring.h"
+	"check_test.h"
+
+1615980805 c:\Программирование\Домашка\lab_17.3_oleynik\check_test.h
+
+1615980805 source:c:\Программирование\Домашка\lab_17.3_oleynik\check_test.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"check_test.h"
+

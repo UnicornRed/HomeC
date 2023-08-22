@@ -1,0 +1,66 @@
+11 Comae Berenices b
+2007 36832.84 7.55 304
+Gas giant
+DMPP-1 d
+2019 20 1.05 204
+Super Earth
+18 Delphini b
+2008 19555.58 7.76 249
+Gas giant
+EPIC 206215704 b
+2019 3.977 0.57 358
+Terrestrial
+Kepler-1258 b
+2016 3.38 0.55 2340
+Terrestrial
+BD-11 4672 c
+2020 91.8 2.52 89
+Neptune like
+HD 30177 b
+2002 16369.73 7.83 181
+Gas giant
+K2-187 c
+2018 23.233 1.15 1079
+Super Earth
+Kepler-1409 b
+2016 6.689 0.66 2266
+Super Earth
+LHS 1140 b
+2017 41.689 1.1 49
+Super Earth
+KIC 10001893 c
+2014 0 0 5456
+Unknown
+K2-195 c
+2018 42.764 1.61 1027
+Neptune like
+CoRoT-24 b
+2014 34.044 2.31 1929
+Neptune like
+CoRoT-21 b
+2012 4290.836 9.09 4562
+Gas giant
+HD 183263 b
+2004 7499.47 8.11 177
+Gas giant
+Kepler-433 b
+2015 5354.052 10.14 6126
+Gas giant
+GJ 1061 d
+2020 9.795 0.74 12
+Super Earth
+HD 100546 b
+2014 1427747 48.24 358
+Gas giant
+KELT-9 b
+2017 5467.968 13.22 667
+Gas giant
+LHS 1815 b
+2020 51.962 0.69 97
+Super Earth
+K2-166 b
+2018 32.431 1.4 1555
+Neptune like
+Kepler-37 e
+2014 0.164 0.24 208
+Terrestrial

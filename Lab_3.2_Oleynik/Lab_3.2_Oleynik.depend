@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1600948097 source:c:\Программирование\Домашка\lab_3.2_oleynik\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1627481092 source:c:\proga\home\lab_3.2_oleynik\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

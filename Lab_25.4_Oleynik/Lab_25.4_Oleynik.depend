@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1618510089 source:c:\Программирование\lab_25.4_oleynik\calculator_module.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"stack.h"
+	"calc.h"
+
+1618510089 c:\Программирование\lab_25.4_oleynik\calc.h
+
+1618509962 source:c:\Программирование\lab_25.4_oleynik\main.c
+	<stdio.h>
+	<stdlib.h>
+	"calc.h"
+
+1618509962 source:c:\Программирование\lab_25.4_oleynik\stack.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1618511867 c:\Программирование\lab_25.4_oleynik\stack.h
+
+1618686495 source:c:\proga\home\lab_25.4_oleynik\main.c
+	<stdio.h>
+	<stdlib.h>
+	"calc.h"
+
+1618689834 c:\proga\home\lab_25.4_oleynik\calc.h
+
+1618648875 source:c:\proga\home\lab_25.4_oleynik\stack.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1618689834 c:\proga\home\lab_25.4_oleynik\stack.h
+
+1619610639 source:c:\proga\home\lab_25.4_oleynik\calculator_module.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"stack.h"
+	"calc.h"
+
