@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1602092238 source:c:\Программирование\Домашка\lab_8.4_oleynik\main.c
-	<stdio.h>
-	<stdlib.h>
-	<locale.h>
-
